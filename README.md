@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm hENZ!
+
+🎓 **Student passionate about building cool things on the web!**
+
+## What I do
+- 💻 I make **web apps**
+- 🎮 I create **games**
+- 🌐 I build **social networking sites**
+
+## My Top Skill
+- ⚡ **JavaScript** — the language powering my projects
+- ⚡ **Python** - Damn CUZ IT'S VERY EZ
+
+---
+
+> “Learning by building. Building by having fun.”
 
 <!--
-**henz333/henz333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to connect or collaborate? Just drop me a message here on GitHub!
 -->
+
+![henz333's GitHub stats](https://github-readme-stats.vercel.app/api?username=henz333&show_icons=true&hide_title=true&theme=radical)
